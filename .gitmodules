@@ -94,3 +94,6 @@
 [submodule "bundle/vim-ai"]
 	path = bundle/vim-ai
 	url = https://github.com/madox2/vim-ai.git
+[submodule "bundle/copilot.vim"]
+	path = bundle/copilot.vim
+	url = https://github.com/github/copilot.vim.git
